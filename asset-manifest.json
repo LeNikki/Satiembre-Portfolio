@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Satiembre-Portfolio/static/css/main.a9c4eb26.css",
+    "main.js": "/Satiembre-Portfolio/static/js/main.d2d4b925.js",
+    "static/js/787.d5360f6f.chunk.js": "/Satiembre-Portfolio/static/js/787.d5360f6f.chunk.js",
+    "static/media/PersonalWeb2.PNG": "/Satiembre-Portfolio/static/media/PersonalWeb2.2eff0d78ffd746b6171d.PNG",
+    "static/media/airbnb.PNG": "/Satiembre-Portfolio/static/media/airbnb.d0285cc06ca87d37bdc1.PNG",
+    "static/media/student.gif": "/Satiembre-Portfolio/static/media/student.aa0293081561cc3f42c5.gif",
+    "static/media/apparelpic.PNG": "/Satiembre-Portfolio/static/media/apparelpic.e05f722ded4961dba7f9.PNG",
+    "static/media/paint.gif": "/Satiembre-Portfolio/static/media/paint.9df95e42c399d38aa531.gif",
+    "static/media/businessCard.PNG": "/Satiembre-Portfolio/static/media/businessCard.32bf3beee72256a127ed.PNG",
+    "static/media/figma to html 3.PNG": "/Satiembre-Portfolio/static/media/figma to html 3.51ed2133284437aa071f.PNG",
+    "static/media/nicpic2.png": "/Satiembre-Portfolio/static/media/nicpic2.200e2d64d62f7ee50d08.png",
+    "static/media/memegen.PNG": "/Satiembre-Portfolio/static/media/memegen.be32454a4c1595f2d5b3.PNG",
+    "static/media/bookDBpic.PNG": "/Satiembre-Portfolio/static/media/bookDBpic.8f94f6ffd0fa850e75bc.PNG",
+    "static/media/figma to html 2.jpg": "/Satiembre-Portfolio/static/media/figma to html 2.da8e30425744056fd1cd.jpg",
+    "static/media/voice.jpeg": "/Satiembre-Portfolio/static/media/voice.1312e81aaf39fe70fc4e.jpeg",
+    "static/media/login.PNG": "/Satiembre-Portfolio/static/media/login.94685befa236ce99a7ef.PNG",
+    "static/media/calculator.PNG": "/Satiembre-Portfolio/static/media/calculator.7ddc96b9ad36e5fb6bd0.PNG",
+    "static/media/TicTacToe.PNG": "/Satiembre-Portfolio/static/media/TicTacToe.07e850ca4f6feac7d964.PNG",
+    "index.html": "/Satiembre-Portfolio/index.html",
+    "main.a9c4eb26.css.map": "/Satiembre-Portfolio/static/css/main.a9c4eb26.css.map",
+    "main.d2d4b925.js.map": "/Satiembre-Portfolio/static/js/main.d2d4b925.js.map",
+    "787.d5360f6f.chunk.js.map": "/Satiembre-Portfolio/static/js/787.d5360f6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9c4eb26.css",
+    "static/js/main.d2d4b925.js"
+  ]
+}
