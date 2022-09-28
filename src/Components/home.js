@@ -5,7 +5,7 @@ function Home(props){
     return (
         <div className='home-cont'> 
                  <nav><p>My Portfolio </p>   
-                    <p><i class={props.theme?"fa fa-sun-o":"fa fa-moon-o"} aria-hidden="true"
+                    <p><i className={props.theme?"fa fa-sun-o":"fa fa-moon-o"} aria-hidden="true"
                     id = {props.theme?"theme-icon":"theme-light"} 
                     onClick= {()=>props.toggle()}></i>{props.theme? " Light" : " Dark"}</p>  
                  </nav>
@@ -19,7 +19,7 @@ function Home(props){
                 <label>
                     <strong className="Kumusta">Kumusta? I'm<h1 className="name">Nicole Satiembre</h1></strong>
                 </label>
-                <i class="fa-solid fa-sun" id="theme"></i> 
+                <i className="fa-solid fa-sun" id="theme"></i> 
                 <h2 className ="web-dev" >Web Developer</h2>
                 
                 <a className="contact" href="mailto:nicsatiembre@gmail.com">Mail me!</a>

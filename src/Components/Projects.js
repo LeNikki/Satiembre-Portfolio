@@ -2,9 +2,10 @@ import React from 'react'
 import data from "./data.js"
 function Projects(props){
     const projects = data.map((item)=>{
-        return (<div className="proj-container">
+        return (<div className="proj-container" key={item.id}>
             <div className={props.theme? "node" : "node-light"}>
         <section ><img src={item.image} className="proj-img" alt={item.title} /></section>
+        <i class="fa-solid fa-chevron-left"></i>
                 <section className="kkk"> 
                     <h3 className="proj-title">{item.title}</h3>
                     <p>{item.desc}</p>
@@ -15,7 +16,6 @@ function Projects(props){
     })
 
     return(<div className= "Projects-container" >
-      
         {projects}
     </div>)
 }

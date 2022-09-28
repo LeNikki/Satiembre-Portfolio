@@ -1,4 +1,5 @@
 import React from "react"
+import CV from "./Assets/Satiembre_Nicole.pdf"
 
 function About(props){
    return ( <div className = "About-container">
@@ -23,7 +24,7 @@ function About(props){
                 <h2><strong>Skills</strong></h2>
                 <span className="resume-cv">
                     <i className="fa fa-download" aria-hidden="true" id="fa-download"></i>
-                    <a href="./Satiembre_Nicole_CV.pdf" download="Satiembre_Nicole_CV" id="ClickMe">Click here to download my CV</a>
+                    <a href={CV} download="Satiembre_Nicole_CV" id="ClickMe">Click here to download my CV</a>
                 </span>
                 
                 <ul>

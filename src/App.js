@@ -1,5 +1,9 @@
 import React from 'react'
 import './App.css';
+import './Components/styles/about.css'
+import './Components/styles/footer.css'
+import './Components/styles/projects.css'
+import './Components/styles/home.css'
 import Home from "./Components/home.js"
 import About from "./Components/about.js"
 import Projects from './Components/Projects';
@@ -21,7 +25,7 @@ function App() {
       <hr style={style}></hr>
       <About theme= {theme} toggle={DarkMode}/>
       <p className="my-projects-title">My Projects</p>
-      <Projects theme= {theme} toggle={DarkMode}/>
+      <Projects theme= {theme} toggle={DarkMode} />
       <Footer/>
      
     </div>

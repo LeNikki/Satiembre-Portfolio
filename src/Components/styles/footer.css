@@ -1,0 +1,32 @@
+/*Footer*/
+.Footer-container{
+    width: 100%;
+    height: 290px;
+    background-color: rgba(255, 255, 255);
+    padding-bottom: 1em;
+    text-align: center;
+    margin-top: 2em 
+  }
+  .Footer-container div{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .icons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 28px;
+    width: 300px;
+    list-style: none;
+  }
+  
+  #iconf{
+    color:black;
+  }
+  
+  #iconf:hover{
+    color:#9900F8;
+  }
+  
