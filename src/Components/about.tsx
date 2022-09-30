@@ -30,7 +30,7 @@ function About(props){
                 <ul>
                     <li>C# and C</li>
                     <li>HTML 5</li>
-                    <li>CSS, Framework: Bootsrap</li>
+                    <li>CSS, Framework: Bootstrap</li>
                     <li>Javascript and Typescript, Frameworks: React JS, jQuery</li>
                     <li>Java</li>
                     <li>Python</li>
