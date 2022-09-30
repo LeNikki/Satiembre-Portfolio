@@ -4,10 +4,10 @@ import './Components/styles/about.css'
 import './Components/styles/footer.css'
 import './Components/styles/projects.css'
 import './Components/styles/home.css'
-import Home from "./Components/home.js"
-import About from "./Components/about.js"
-import Projects from './Components/Projects';
-import Footer from "./Components/Footer.js"
+import Home from "./Components/home.tsx"
+import About from "./Components/about.tsx"
+import Projects from './Components/Projects.tsx';
+import Footer from "./Components/Footer.tsx"
 function App() {
   const style= {
     width: "70%"

@@ -18,8 +18,7 @@ function Home(props){
             <div className={props.theme? "right-container" : "right-light"}>
                 <label>
                     <strong className="Kumusta">Kumusta? I'm<h1 className="name">Nicole Satiembre</h1></strong>
-                </label>
-                <i className="fa-solid fa-sun" id="theme"></i> 
+                </label> 
                 <h2 className ="web-dev" >Web Developer</h2>
                 
                 <a className="contact" href="mailto:nicsatiembre@gmail.com">Mail me!</a>
