@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Satiembre-Portfolio/static/css/main.a39996c4.css",
+    "main.css": "/Satiembre-Portfolio/static/css/main.3c670af2.css",
     "main.js": "/Satiembre-Portfolio/static/js/main.eef9dcdd.js",
     "static/js/787.d5360f6f.chunk.js": "/Satiembre-Portfolio/static/js/787.d5360f6f.chunk.js",
     "static/media/PersonalWeb2.PNG": "/Satiembre-Portfolio/static/media/PersonalWeb2.2eff0d78ffd746b6171d.PNG",
@@ -20,12 +20,12 @@
     "static/media/calculator.PNG": "/Satiembre-Portfolio/static/media/calculator.7ddc96b9ad36e5fb6bd0.PNG",
     "static/media/TicTacToe.PNG": "/Satiembre-Portfolio/static/media/TicTacToe.07e850ca4f6feac7d964.PNG",
     "index.html": "/Satiembre-Portfolio/index.html",
-    "main.a39996c4.css.map": "/Satiembre-Portfolio/static/css/main.a39996c4.css.map",
+    "main.3c670af2.css.map": "/Satiembre-Portfolio/static/css/main.3c670af2.css.map",
     "main.eef9dcdd.js.map": "/Satiembre-Portfolio/static/js/main.eef9dcdd.js.map",
     "787.d5360f6f.chunk.js.map": "/Satiembre-Portfolio/static/js/787.d5360f6f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a39996c4.css",
+    "static/css/main.3c670af2.css",
     "static/js/main.eef9dcdd.js"
   ]
 }
