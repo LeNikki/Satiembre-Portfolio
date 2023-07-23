@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/Satiembre-Portfolio/static/css/main.d576ff14.css",
-    "main.js": "/Satiembre-Portfolio/static/js/main.049dab20.js",
+    "main.js": "/Satiembre-Portfolio/static/js/main.9dc073db.js",
     "static/js/787.d5360f6f.chunk.js": "/Satiembre-Portfolio/static/js/787.d5360f6f.chunk.js",
+    "static/media/campsite.PNG": "/Satiembre-Portfolio/static/media/campsite.0e3f73e7f12a35b2cf7d.PNG",
     "static/media/PersonalWeb2.PNG": "/Satiembre-Portfolio/static/media/PersonalWeb2.2eff0d78ffd746b6171d.PNG",
     "static/media/airbnb.PNG": "/Satiembre-Portfolio/static/media/airbnb.d0285cc06ca87d37bdc1.PNG",
     "static/media/student.gif": "/Satiembre-Portfolio/static/media/student.aa0293081561cc3f42c5.gif",
@@ -16,16 +17,17 @@
     "static/media/figma to html 2.jpg": "/Satiembre-Portfolio/static/media/figma to html 2.da8e30425744056fd1cd.jpg",
     "static/media/voice.jpeg": "/Satiembre-Portfolio/static/media/voice.1312e81aaf39fe70fc4e.jpeg",
     "static/media/Satiembre_Nicole.pdf": "/Satiembre-Portfolio/static/media/Satiembre_Nicole.bbdfbce2aa2da39cea71.pdf",
+    "static/media/stud_in.PNG": "/Satiembre-Portfolio/static/media/stud_in.6fea15a182b3350f8045.PNG",
     "static/media/login.PNG": "/Satiembre-Portfolio/static/media/login.94685befa236ce99a7ef.PNG",
     "static/media/calculator.PNG": "/Satiembre-Portfolio/static/media/calculator.7ddc96b9ad36e5fb6bd0.PNG",
     "static/media/TicTacToe.PNG": "/Satiembre-Portfolio/static/media/TicTacToe.07e850ca4f6feac7d964.PNG",
     "index.html": "/Satiembre-Portfolio/index.html",
     "main.d576ff14.css.map": "/Satiembre-Portfolio/static/css/main.d576ff14.css.map",
-    "main.049dab20.js.map": "/Satiembre-Portfolio/static/js/main.049dab20.js.map",
+    "main.9dc073db.js.map": "/Satiembre-Portfolio/static/js/main.9dc073db.js.map",
     "787.d5360f6f.chunk.js.map": "/Satiembre-Portfolio/static/js/787.d5360f6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d576ff14.css",
-    "static/js/main.049dab20.js"
+    "static/js/main.9dc073db.js"
   ]
 }
