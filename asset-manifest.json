@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Satiembre-Portfolio/static/css/main.d576ff14.css",
-    "main.js": "/Satiembre-Portfolio/static/js/main.1d1932df.js",
+    "main.css": "/Satiembre-Portfolio/static/css/main.dda2dfbf.css",
+    "main.js": "/Satiembre-Portfolio/static/js/main.c3eb5eae.js",
     "static/js/787.d5360f6f.chunk.js": "/Satiembre-Portfolio/static/js/787.d5360f6f.chunk.js",
     "static/media/campsite.PNG": "/Satiembre-Portfolio/static/media/campsite.0e3f73e7f12a35b2cf7d.PNG",
     "static/media/PersonalWeb2.PNG": "/Satiembre-Portfolio/static/media/PersonalWeb2.2eff0d78ffd746b6171d.PNG",
@@ -21,13 +21,17 @@
     "static/media/login.PNG": "/Satiembre-Portfolio/static/media/login.94685befa236ce99a7ef.PNG",
     "static/media/calculator.PNG": "/Satiembre-Portfolio/static/media/calculator.7ddc96b9ad36e5fb6bd0.PNG",
     "static/media/TicTacToe.PNG": "/Satiembre-Portfolio/static/media/TicTacToe.07e850ca4f6feac7d964.PNG",
+    "static/media/slick.svg": "/Satiembre-Portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Satiembre-Portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Satiembre-Portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Satiembre-Portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Satiembre-Portfolio/index.html",
-    "main.d576ff14.css.map": "/Satiembre-Portfolio/static/css/main.d576ff14.css.map",
-    "main.1d1932df.js.map": "/Satiembre-Portfolio/static/js/main.1d1932df.js.map",
+    "main.dda2dfbf.css.map": "/Satiembre-Portfolio/static/css/main.dda2dfbf.css.map",
+    "main.c3eb5eae.js.map": "/Satiembre-Portfolio/static/js/main.c3eb5eae.js.map",
     "787.d5360f6f.chunk.js.map": "/Satiembre-Portfolio/static/js/787.d5360f6f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d576ff14.css",
-    "static/js/main.1d1932df.js"
+    "static/css/main.dda2dfbf.css",
+    "static/js/main.c3eb5eae.js"
   ]
 }
