@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Satiembre-Portfolio/static/css/main.dda2dfbf.css",
-    "main.js": "/Satiembre-Portfolio/static/js/main.e30a0ac1.js",
+    "main.js": "/Satiembre-Portfolio/static/js/main.cccb0dfa.js",
     "static/js/787.d5360f6f.chunk.js": "/Satiembre-Portfolio/static/js/787.d5360f6f.chunk.js",
     "static/media/campsite.PNG": "/Satiembre-Portfolio/static/media/campsite.0e3f73e7f12a35b2cf7d.PNG",
     "static/media/PersonalWeb2.PNG": "/Satiembre-Portfolio/static/media/PersonalWeb2.2eff0d78ffd746b6171d.PNG",
@@ -16,7 +16,7 @@
     "static/media/bookDBpic.PNG": "/Satiembre-Portfolio/static/media/bookDBpic.8f94f6ffd0fa850e75bc.PNG",
     "static/media/figma to html 2.jpg": "/Satiembre-Portfolio/static/media/figma to html 2.da8e30425744056fd1cd.jpg",
     "static/media/voice.jpeg": "/Satiembre-Portfolio/static/media/voice.1312e81aaf39fe70fc4e.jpeg",
-    "static/media/Satiembre_Nicole.pdf": "/Satiembre-Portfolio/static/media/Satiembre_Nicole.6e7505f46349daf87c8c.pdf",
+    "static/media/Satiembre_Nicole.pdf": "/Satiembre-Portfolio/static/media/Satiembre_Nicole.51c916acc2ddc32b8fa0.pdf",
     "static/media/stud_in.PNG": "/Satiembre-Portfolio/static/media/stud_in.6fea15a182b3350f8045.PNG",
     "static/media/login.PNG": "/Satiembre-Portfolio/static/media/login.94685befa236ce99a7ef.PNG",
     "static/media/calculator.PNG": "/Satiembre-Portfolio/static/media/calculator.7ddc96b9ad36e5fb6bd0.PNG",
@@ -27,11 +27,11 @@
     "static/media/slick.woff": "/Satiembre-Portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Satiembre-Portfolio/index.html",
     "main.dda2dfbf.css.map": "/Satiembre-Portfolio/static/css/main.dda2dfbf.css.map",
-    "main.e30a0ac1.js.map": "/Satiembre-Portfolio/static/js/main.e30a0ac1.js.map",
+    "main.cccb0dfa.js.map": "/Satiembre-Portfolio/static/js/main.cccb0dfa.js.map",
     "787.d5360f6f.chunk.js.map": "/Satiembre-Portfolio/static/js/787.d5360f6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dda2dfbf.css",
-    "static/js/main.e30a0ac1.js"
+    "static/js/main.cccb0dfa.js"
   ]
 }
