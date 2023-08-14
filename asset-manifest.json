@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/Satiembre-Portfolio/static/css/main.dda2dfbf.css",
-    "main.js": "/Satiembre-Portfolio/static/js/main.15903545.js",
+    "main.css": "/Satiembre-Portfolio/static/css/main.0fb385c6.css",
+    "main.js": "/Satiembre-Portfolio/static/js/main.537b706a.js",
     "static/js/787.d5360f6f.chunk.js": "/Satiembre-Portfolio/static/js/787.d5360f6f.chunk.js",
     "static/media/campsite.PNG": "/Satiembre-Portfolio/static/media/campsite.0e3f73e7f12a35b2cf7d.PNG",
     "static/media/PersonalWeb2.PNG": "/Satiembre-Portfolio/static/media/PersonalWeb2.2eff0d78ffd746b6171d.PNG",
     "static/media/airbnb.PNG": "/Satiembre-Portfolio/static/media/airbnb.d0285cc06ca87d37bdc1.PNG",
+    "static/media/plantify.png": "/Satiembre-Portfolio/static/media/plantify.2eabb4c20f511608174f.png",
     "static/media/student.gif": "/Satiembre-Portfolio/static/media/student.aa0293081561cc3f42c5.gif",
     "static/media/apparelpic.PNG": "/Satiembre-Portfolio/static/media/apparelpic.e05f722ded4961dba7f9.PNG",
     "static/media/paint.gif": "/Satiembre-Portfolio/static/media/paint.9df95e42c399d38aa531.gif",
@@ -26,12 +27,12 @@
     "static/media/slick.ttf": "/Satiembre-Portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Satiembre-Portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Satiembre-Portfolio/index.html",
-    "main.dda2dfbf.css.map": "/Satiembre-Portfolio/static/css/main.dda2dfbf.css.map",
-    "main.15903545.js.map": "/Satiembre-Portfolio/static/js/main.15903545.js.map",
+    "main.0fb385c6.css.map": "/Satiembre-Portfolio/static/css/main.0fb385c6.css.map",
+    "main.537b706a.js.map": "/Satiembre-Portfolio/static/js/main.537b706a.js.map",
     "787.d5360f6f.chunk.js.map": "/Satiembre-Portfolio/static/js/787.d5360f6f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dda2dfbf.css",
-    "static/js/main.15903545.js"
+    "static/css/main.0fb385c6.css",
+    "static/js/main.537b706a.js"
   ]
 }
