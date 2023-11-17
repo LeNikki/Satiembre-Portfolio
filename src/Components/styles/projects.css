@@ -1,0 +1,97 @@
+/*Projects*/
+
+.my-projects-title{
+    margin-top: 4em;
+    font-size: 25px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .proj-container{
+   
+  }
+  .arrows{
+    padding: 5px;
+    margin:5px;
+    background-color: aliceblue;
+    border-radius: 50%;
+    align-items: center;
+  }
+  .Projects-main{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+  }
+  .Projects-container{
+   
+    overflow-x: scroll;
+    display: flex;
+    align-items: center;
+
+  }
+  /* width of scrollbars*/
+  .Projects-container::-webkit-scrollbar {
+    width: 2px;
+    height: 5px;
+  }
+  
+  /* Track */
+  .Projects-container::-webkit-scrollbar-track {
+    background:#dcdbe5;
+  }
+  
+  /* Handle */
+  .Projects-container::-webkit-scrollbar-thumb {
+    background: #8f80c4;
+  }
+  
+  /* Handle on hover */
+  .Projects-container::-webkit-scrollbar-thumb:hover {
+    background: rgb(136, 135, 193);
+  }
+  
+  
+  .node{
+    margin: 0 2px;
+    width: 290px;
+    background-color: #26273C;
+    border-radius: 10px;
+    padding: 1em;
+    transform: scale(0.8);
+  }
+  .node-light{
+    margin: 0 2px;
+    width: 290px;
+    background-color: #ffffff;
+    color: black;
+    border-radius: 10px;
+    padding: 1em;
+    transform: scale(0.8);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+  .node:hover, .node-light:hover{
+    transform: scale(0.85);
+    box-shadow: #c720ddf6 0px 6px 8px;
+  }
+  .proj-img {
+    width: 280px;
+  }
+  
+  .proj-link{
+    text-decoration: none;
+    background-color: #9900F8;
+    color:white;
+    padding: 1em;
+    border-radius: 10px;
+    width: 260px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .proj-link:hover{
+    filter: brightness(60%);
+  }
+  

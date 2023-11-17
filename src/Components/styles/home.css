@@ -1,0 +1,70 @@
+.home-cont {
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+/*navbar*/
+.home-cont nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.home-body {
+  height: 100vh;
+  width: 80%;
+  padding: 2em;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.buttons {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.label {
+  margin-top: 4em;
+}
+.Kumusta {
+  font-size: clamp(18px, 1.5vw, 36px);
+}
+.name {
+  font-size: clamp(18px, 2vw, 38px);
+}
+
+/*new*/
+.web-dev {
+  font-size: clamp(18px, 2vw, 38px);
+  color: #fb7171;
+}
+.contact {
+  background-color: #9900f8;
+  padding: 5px;
+  align-items: center;
+  width: 12em;
+  border-radius: 10px;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  color: white;
+  margin: 5px;
+}
+.contact:hover {
+  filter: brightness(60%);
+}
+/*Right image*/
+.Nicole {
+  width: 20em;
+  border-radius: 2em;
+}
+.Nicole:hover {
+  transform: scale(103%);
+}
