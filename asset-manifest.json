@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Satiembre-Portfolio/static/css/main.4511760e.css",
-    "main.js": "/Satiembre-Portfolio/static/js/main.937d8402.js",
+    "main.js": "/Satiembre-Portfolio/static/js/main.4d91cc94.js",
     "static/js/787.d5360f6f.chunk.js": "/Satiembre-Portfolio/static/js/787.d5360f6f.chunk.js",
     "static/media/PersonalWeb2.PNG": "/Satiembre-Portfolio/static/media/PersonalWeb2.2eff0d78ffd746b6171d.PNG",
     "static/media/studentInfo.PNG": "/Satiembre-Portfolio/static/media/studentInfo.4df04f14e78120731bc4.PNG",
@@ -17,7 +17,7 @@
     "static/media/bookDBpic.PNG": "/Satiembre-Portfolio/static/media/bookDBpic.8f94f6ffd0fa850e75bc.PNG",
     "static/media/figma to html 2.jpg": "/Satiembre-Portfolio/static/media/figma to html 2.da8e30425744056fd1cd.jpg",
     "static/media/voice.jpeg": "/Satiembre-Portfolio/static/media/voice.1312e81aaf39fe70fc4e.jpeg",
-    "static/media/Satiembre_Nicole.pdf": "/Satiembre-Portfolio/static/media/Satiembre_Nicole.bbdfbce2aa2da39cea71.pdf",
+    "static/media/Satiembre_Nicole_CV.pdf": "/Satiembre-Portfolio/static/media/Satiembre_Nicole_CV.eeeeae29a956e9f480de.pdf",
     "static/media/login.PNG": "/Satiembre-Portfolio/static/media/login.94685befa236ce99a7ef.PNG",
     "static/media/calculator.PNG": "/Satiembre-Portfolio/static/media/calculator.7ddc96b9ad36e5fb6bd0.PNG",
     "static/media/TicTacToe.PNG": "/Satiembre-Portfolio/static/media/TicTacToe.07e850ca4f6feac7d964.PNG",
@@ -25,11 +25,11 @@
     "static/media/sunny.png": "/Satiembre-Portfolio/static/media/sunny.f794832ad72b90c61eb7.png",
     "index.html": "/Satiembre-Portfolio/index.html",
     "main.4511760e.css.map": "/Satiembre-Portfolio/static/css/main.4511760e.css.map",
-    "main.937d8402.js.map": "/Satiembre-Portfolio/static/js/main.937d8402.js.map",
+    "main.4d91cc94.js.map": "/Satiembre-Portfolio/static/js/main.4d91cc94.js.map",
     "787.d5360f6f.chunk.js.map": "/Satiembre-Portfolio/static/js/787.d5360f6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4511760e.css",
-    "static/js/main.937d8402.js"
+    "static/js/main.4d91cc94.js"
   ]
 }
