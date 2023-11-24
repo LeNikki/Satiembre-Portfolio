@@ -2,8 +2,7 @@ import React from "react";
 import Nicole from "./Assets/nicpic.png";
 import Sun from "./Assets/sunny.png";
 import Moon from "./Assets/moon.png";
-import CV from "./Assets/Satiembre_Nicole.pdf";
-
+import CV from "./Assets/Satiembre_Nicole_CV.pdf";
 function Home(props) {
   return (
     <div className="home-cont">
@@ -49,6 +48,7 @@ function Home(props) {
             <h1 className="name">Nicole Satiembre</h1>
             <p>
               BS Computer Engineering | MERN Stack Web Developer | Web Designer
+              from Cebu, Philippines
             </p>
           </label>
           <section className="buttons">
