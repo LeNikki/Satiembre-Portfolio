@@ -51,6 +51,8 @@ function About(props) {
           <li>Google apps</li>
           <li>Microsoft Office</li>
           <li>WordPress</li>
+          <li>PHP</li>
+          <li>Typescript</li>
         </ul>
       </div>
     </div>
