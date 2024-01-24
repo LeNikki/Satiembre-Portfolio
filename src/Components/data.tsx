@@ -27,7 +27,7 @@ const data = [
     title: "Student Information",
     image: studentData,
     desc: "A student Information System made with NextJS + MongoDB + TailwindCSS",
-    link: "https://classroom-info-db.vercel.app/",
+    link: "https://github.com/LeNikki/ClassroomInfoDb",
   },
   {
     id: 1,
