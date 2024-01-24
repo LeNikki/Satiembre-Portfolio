@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Satiembre-Portfolio/static/css/main.4511760e.css",
-    "main.js": "/Satiembre-Portfolio/static/js/main.089aff81.js",
+    "main.css": "/Satiembre-Portfolio/static/css/main.ee2126d3.css",
+    "main.js": "/Satiembre-Portfolio/static/js/main.7b4f417c.js",
     "static/js/787.d5360f6f.chunk.js": "/Satiembre-Portfolio/static/js/787.d5360f6f.chunk.js",
     "static/media/PersonalWeb2.PNG": "/Satiembre-Portfolio/static/media/PersonalWeb2.2eff0d78ffd746b6171d.PNG",
     "static/media/studentInfo.PNG": "/Satiembre-Portfolio/static/media/studentInfo.4df04f14e78120731bc4.PNG",
@@ -24,12 +24,12 @@
     "static/media/moon.png": "/Satiembre-Portfolio/static/media/moon.d91f118702503b40d9a7.png",
     "static/media/sunny.png": "/Satiembre-Portfolio/static/media/sunny.f794832ad72b90c61eb7.png",
     "index.html": "/Satiembre-Portfolio/index.html",
-    "main.4511760e.css.map": "/Satiembre-Portfolio/static/css/main.4511760e.css.map",
-    "main.089aff81.js.map": "/Satiembre-Portfolio/static/js/main.089aff81.js.map",
+    "main.ee2126d3.css.map": "/Satiembre-Portfolio/static/css/main.ee2126d3.css.map",
+    "main.7b4f417c.js.map": "/Satiembre-Portfolio/static/js/main.7b4f417c.js.map",
     "787.d5360f6f.chunk.js.map": "/Satiembre-Portfolio/static/js/787.d5360f6f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4511760e.css",
-    "static/js/main.089aff81.js"
+    "static/css/main.ee2126d3.css",
+    "static/js/main.7b4f417c.js"
   ]
 }
