@@ -17,28 +17,36 @@ function About(props) {
           <strong>About Me</strong>
         </h2>
 
-        <p>
-          As a web developer and graphic designer, I have a keen eye that
-          specialize in creating captivating websites that boost your brand's
-          online presence. Let's turn your dream website into reality! Whether
-          it's an e-commerce platform, corporate site, or a dynamic web
-          application, I'm here to bring your vision to life. Reach out via
-          email or social media, and let's start building your exceptional
-          online presence together. Transform your aspirations into an impactful
-          digital asset. Let's collaborate and create a stunning website that
-          truly represents your brand!
+        <p style={{ "text-align": "center" }}>
+          Hi there! I am a graduating student, taking up
+          <p>
+            <b>
+              Bachelor of Science in Computer Engineering at Cebu Technological
+              University - Main Campus, Cebu City, Philippines.
+            </b>
+          </p>
+          As a web developer and web designer, I have a keen eye that specialize
+          in creating captivating websites that boost your brand's online
+          presence. Let's turn your dream website into reality! Whether it's an
+          e-commerce platform, corporate site, or a dynamic web application, I'm
+          here to bring your vision to life. Reach out via email or social
+          media, and let's start building your exceptional online presence
+          together. Transform your aspirations into an impactful digital asset.
+          Let's collaborate and create a stunning website that truly represents
+          your brand!
         </p>
         <p className="quote">
           I do what I love and I love the things that I do.
         </p>
+        <h2></h2>
         <h2>
           <strong>Skills</strong>
         </h2>
-
         <ul className="skills-ul">
           <li> ReactJs/NextJs </li>
           <li>MongoDB</li>
           <li>Tailwind CSS</li>
+          <li>Git/Github</li>
           <li>Bootstrap</li>
           <li>RESTful APIs</li>
           <li>Java</li>
@@ -53,6 +61,9 @@ function About(props) {
           <li>WordPress</li>
           <li>PHP</li>
           <li>Typescript</li>
+          <li>MySQL</li>
+          <li>Firebase</li>
+          <li>Cisco Networking</li>
         </ul>
       </div>
     </div>
